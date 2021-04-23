@@ -1,0 +1,5 @@
+C:\Code\hello\bin\Debug\net5.0\publish\hello.exe
+C:\Code\hello\bin\Debug\net5.0\publish\hello.dll
+C:\Code\hello\bin\Debug\net5.0\publish\hello.deps.json
+C:\Code\hello\bin\Debug\net5.0\publish\hello.runtimeconfig.json
+C:\Code\hello\bin\Debug\net5.0\publish\hello.pdb
